@@ -1,0 +1,4 @@
+# Ignore blend files used for testing
+*.blend
+*.blend1
+*.blend2
