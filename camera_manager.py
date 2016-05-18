@@ -1,3 +1,11 @@
+bl_info = {
+    "name": "Camera Manager",
+    "category": "3D View",
+    "location": "View3D > Tool Shelf > Camera Manager",
+    "description": "Easily switch between different cameras",
+    "author": "Isaac Weaver"
+}
+
 import bpy
 
 
