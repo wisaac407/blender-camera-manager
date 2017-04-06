@@ -1,4 +1,4 @@
-# blender-camera-manager
+# Blender Camera Manager
 Easily switch between cameras in scene.
 
 ## Installation
